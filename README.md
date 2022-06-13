@@ -19,7 +19,7 @@
 </p>
 
 - 👼 My name is Zeeone 
-- 🗣️ I am 17 years old 
+- 🗣️ I am 17 years news 
 - 🔭 I am not programmer
 
 ## ```Connect with me```
